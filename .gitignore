@@ -1,0 +1,10 @@
+.env
+db/*.db
+db/*.db-wal
+db/*.db-shm
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
